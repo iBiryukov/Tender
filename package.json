@@ -1,0 +1,14 @@
+{
+  "name": "Zak",
+  "description": "hello world test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.x",
+    "node.io": "*",
+    "underscore": "*",
+    "jquery": "*",
+    "request": "*",
+    "mongoose": "*"
+  }
+}
